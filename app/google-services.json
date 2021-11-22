@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45157986588",
+    "project_id": "ams-project-a96b6",
+    "storage_bucket": "ams-project-a96b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45157986588:android:5a05ecc4ed47067621cad9",
+        "android_client_info": {
+          "package_name": "com.project.ams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45157986588-l8grdomrfmolcjbnqtdt5o08k228pt4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVrngERdJZi8TlbVvA74gqNckDi39Ycw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45157986588-l8grdomrfmolcjbnqtdt5o08k228pt4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
